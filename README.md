@@ -16,6 +16,10 @@ In real life, many events have limited capacities. A single swim teacher cannot 
 
 Skeddly allows fair selection of participants who sign up for events. Organizers can create events on the platform, and share them via a QR code to interested participants. Entrants can browse events and filter according to their interests. If an entrant is interested in an event, they can choose to sign up at any point during the registration period. When an organizer is ready, they can draw as many participants as needed from those who have signed up. Selected participants will be notified and asked to confirm their attendance. This system ensures fairness to anyone who is interested in the event and signs up during the registration period!
 
+## Demo Video
+
+https://github.com/user-attachments/assets/ca4f2329-78c6-4823-9253-48bd72ef0dad
+
 ## Team Members
 
 | Name             | GitHub Username |
