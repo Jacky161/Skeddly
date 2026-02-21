@@ -18,7 +18,7 @@ Skeddly allows fair selection of participants who sign up for events. Organizers
 
 ## Demo Video
 
-https://github.com/user-attachments/assets/ca4f2329-78c6-4823-9253-48bd72ef0dad
+https://github.com/user-attachments/assets/7d0de27c-2442-4b0c-ba02-a3bb051455d6
 
 ## Team Members
 
